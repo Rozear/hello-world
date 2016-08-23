@@ -1,2 +1,7 @@
 # hello-world
-it's a hello world project
+
+Hi everyone~
+ 
+i'm from burad.
+
+it's a hello world project from the other side
